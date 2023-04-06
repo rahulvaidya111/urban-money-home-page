@@ -1,0 +1,15 @@
+body{
+    
+}
+.logo img{
+    width: 40px;
+    display: flex;
+    float: left;
+    
+}
+.logo text{
+    float: right;
+}
+.link{
+    float: right;
+}
